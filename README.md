@@ -1,29 +1,29 @@
 # PCA
 Plateforme de Communication Alternative
 
-La version de PCA proposée date de l'année 2011, date de la fin du projet. Le logiciel PCA n'est plus maintenu depuis. Pour les développeurs souhaitant faire évoluer le logiciel, nous mettons à disposition le code source (en java) sous certaines conditions.
+La version de PCA proposÃ©e date de l'annÃ©e 2011, date de la fin du projet. Le logiciel PCA n'est plus maintenu depuis. Pour les dÃ©veloppeurs souhaitant faire Ã©voluer le logiciel, nous mettons Ã  disposition le code source (en java) sous certaines conditions.
 
 ## La PCA sous Windows
 
-### ?? Téléchargement
+### TÃ©lÃ©chargement
 
 | | |
 | :--- | :--- |
-| **Télécharger PCA version libre accès (Windows), PCAFA.zip** | [[PCAFA.zip]](../download/PCAFA.zip) |
+| **TÃ©lÃ©charger PCA version libre accÃ¨s (Windows), PCAFA.zip** | [[PCAFA.zip]](PCAFA.zip) |
 
 ---
 
-## Procédure d'installation
+## ProcÃ©dure d'installation
 
-La PCA s'installe sur les systèmes de types Windows exclusivement. Après avoir téléchargé le fichier [**PCAFA.zip**](../download/PCAFA.zip) ci-dessus, décompressez-le dans le dossier de votre choix (par exemple et ci-après *PCAFA*).
+La PCA s'installe sur les systÃ¨mes de types Windows exclusivement. AprÃ¨s avoir tÃ©lÃ©chargÃ© le fichier [**PCAFA.zip**](PCAFA.zip) ci-dessus, dÃ©compressez-le dans le dossier de votre choix (par exemple et ci-aprÃ¨s *PCAFA*).
 
-1.  Le fichier d'exécution de la PCA, *PCA.bat* se trouve dans le dossier *PCAFA\PCA\bin* (vous pouvez créer un raccourci sur votre bureau).
-2.  La première fois que vous lancez PCA, vous devez créer un utilisateur en cliquant sur le bouton *nouveau* de la fenêtre *Utilisateur*, puis en saisissant le nom de l'utilisateur.
-3.  Une fois l'utilisateur créé, vous pouvez entrer dans la PCA en cliquant sur le bouton *OK*.
-4.  Consultez ensuite le manuel d'utilisation (téléchargeable sur ce site ou accessible via le menu *Aide -> Documentation* dans la PCA) pour configurer la PCA à votre convenance.
+1.  Le fichier d'exÃ©cution de la PCA, *PCA.bat* se trouve dans le dossier *PCAFA\PCA\bin* (vous pouvez crÃ©er un raccourci sur votre bureau).
+2.  La premiÃ¨re fois que vous lancez PCA, vous devez crÃ©er un utilisateur en cliquant sur le bouton *nouveau* de la fenÃªtre *Utilisateur*, puis en saisissant le nom de l'utilisateur.
+3.  Une fois l'utilisateur crÃ©Ã©, vous pouvez entrer dans la PCA en cliquant sur le bouton *OK*.
+4.  Consultez ensuite le manuel d'utilisation (tÃ©lÃ©chargeable sur ce site ou accessible via le menu *Aide -> Documentation* dans la PCA) pour configurer la PCA Ã  votre convenance.
 
 ---
 
-## Limitation de la présente version
+## Limitation de la prÃ©sente version
 
-Cette version permet d'avoir accès à toutes les fonctionnalités du logiciel, à l'exception du module de synthèse vocale.
+Cette version permet d'avoir accÃ¨s Ã  toutes les fonctionnalitÃ©s du logiciel, Ã  l'exception du module de synthÃ¨se vocale.
