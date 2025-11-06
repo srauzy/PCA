@@ -1,5 +1,4 @@
-# PCA
-Plateforme de Communication Alternative
+# PCA, la Plateforme de Communication Alternative
 
 La version de PCA proposée date de l'année 2011, date de la fin du projet. Le logiciel PCA n'est plus maintenu depuis. Pour les développeurs souhaitant faire évoluer le logiciel, nous mettons à disposition le code source (en java) sous certaines conditions.
 
@@ -7,9 +6,7 @@ La version de PCA proposée date de l'année 2011, date de la fin du projet. Le 
 
 ### Téléchargement
 
-| | |
-| :--- | :--- |
-| **Télécharger PCA version libre accès (Windows) PCAFA.zip en cliquant sur le lien à droite puis en cliquant sur la flèche de téléchargement en haut à drite qui apparait sur la page qui vient de s'ouvrir** | [[PCAFA.zip]](PCAFA.zip) |
+**Télécharger PCA version libre accès (Windows) PCAFA.zip en cliquant sur le lien à droite puis en cliquant sur la flèche de téléchargement en haut à droite qui apparait sur la page qui vient de s'ouvrir.** [[PCAFA.zip]](PCAFA.zip) 
 
 ---
 
