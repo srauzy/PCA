@@ -1,29 +1,44 @@
-# PCA
-Plateforme de Communication Alternative
+# PCA, la Plateforme de Communication Alternative
 
-La version de PCA proposÈe date de l'annÈe 2011, date de la fin du projet. Le logiciel PCA n'est plus maintenu depuis. Pour les dÈveloppeurs souhaitant faire Èvoluer le logiciel, nous mettons ‡ disposition le code source (en java) sous certaines conditions.
+Le logiciel propose **plusieurs solutions** adapt√©es aux capacit√©s communicationnelles et au degr√© de motricit√© de l'utilisateur :
+
+* Communication verbale par √©crit
+* Communication non-verbale √† base d'ic√¥nes
+* Mode d'accessibilit√© par clavier, souris ou d√©filement
+* Capteurs de mouvements pour contr√¥ler l'interface
+
+La PCA √©quipe de nombreux particuliers, professionnels du secteur m√©dico-social et structures d'accueil.
+
+---
+
+## D√©veloppement et distribution
+
+La PCA a √©t√© con√ßue et d√©velopp√©e au sein du **[Laboratoire Parole et Langage](http://www.lpl-aix.fr/) ([CNRS](http://www.cnrs.fr/) et [Aix Marseille Universit√©](http://www.univ-amu.fr/))**. Distribu√© par la soci√©t√© Aegys de 2003 √† 2011, le logiciel PCA est maintenant disponible en **libre acc√®s**. 
+
+La version de PCA propos√©e date de l'ann√©e **2011**, date de la fin du projet. Le logiciel PCA n'est plus maintenu depuis. La PCA s'installe sur le syst√®me Windows exclusivement. Pour les d√©veloppeurs souhaitant faire √©voluer le logiciel, nous mettons √† disposition le **code source (en Java)** sous certaines conditions. Dans ce cas, contactez St√©phane Rauzy.
 
 ## La PCA sous Windows
 
-### ?? TÈlÈchargement
+### T√©l√©chargement
 
-| | |
-| :--- | :--- |
-| **TÈlÈcharger PCA version libre accËs (Windows), PCAFA.zip** | [[PCAFA.zip]](../download/PCAFA.zip) |
+T√©l√©charger PCA version libre acc√®s (Windows) PCAFA.zip :
 
----
-
-## ProcÈdure d'installation
-
-La PCA s'installe sur les systËmes de types Windows exclusivement. AprËs avoir tÈlÈchargÈ le fichier [**PCAFA.zip**](../download/PCAFA.zip) ci-dessus, dÈcompressez-le dans le dossier de votre choix (par exemple et ci-aprËs *PCAFA*).
-
-1.  Le fichier d'exÈcution de la PCA, *PCA.bat* se trouve dans le dossier *PCAFA\PCA\bin* (vous pouvez crÈer un raccourci sur votre bureau).
-2.  La premiËre fois que vous lancez PCA, vous devez crÈer un utilisateur en cliquant sur le bouton *nouveau* de la fenÍtre *Utilisateur*, puis en saisissant le nom de l'utilisateur.
-3.  Une fois l'utilisateur crÈÈ, vous pouvez entrer dans la PCA en cliquant sur le bouton *OK*.
-4.  Consultez ensuite le manuel d'utilisation (tÈlÈchargeable sur ce site ou accessible via le menu *Aide -> Documentation* dans la PCA) pour configurer la PCA ‡ votre convenance.
+1. Cliquez sur le lien [[PCAFA.zip]](PCAFA.zip)
+2. Cliquez sur la fl√®che de t√©l√©chargement en haut √† droite qui apparait sur la page qui vient de s'ouvrir.  
 
 ---
 
-## Limitation de la prÈsente version
+## Proc√©dure d'installation
 
-Cette version permet d'avoir accËs ‡ toutes les fonctionnalitÈs du logiciel, ‡ l'exception du module de synthËse vocale.
+La PCA s'installe sur les syst√®mes de types Windows exclusivement. Apr√®s avoir t√©l√©charg√© le fichier PCAFA.zip comme d√©taill√© ci-dessus, d√©compressez-le dans le dossier de votre choix (par exemple et ci-apr√®s *PCAFA*).
+
+1.  Le fichier d'ex√©cution de la PCA, *PCA.bat* se trouve dans le dossier *PCAFA\PCA\bin* (vous pouvez cr√©er un raccourci sur votre bureau).
+2.  La premi√®re fois que vous lancez PCA, vous devez cr√©er un utilisateur en cliquant sur le bouton *nouveau* de la fen√™tre *Utilisateur*, puis en saisissant le nom de l'utilisateur.
+3.  Une fois l'utilisateur cr√©√©, vous pouvez entrer dans la PCA en cliquant sur le bouton *OK*.
+4.  Consultez ensuite le manuel d'utilisation (accessible via le menu *Aide -> Documentation* dans la PCA) pour configurer la PCA √† votre convenance.
+
+---
+
+## Limitation de la pr√©sente version
+
+Cette version permet d'avoir acc√®s √† toutes les fonctionnalit√©s du logiciel, √† l'exception du module de synth√®se vocale.
