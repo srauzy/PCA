@@ -1,6 +1,21 @@
 # PCA, la Plateforme de Communication Alternative
 
-La version de PCA proposée date de l'année 2011, date de la fin du projet. Le logiciel PCA n'est plus maintenu depuis. Pour les développeurs souhaitant faire évoluer le logiciel, nous mettons à disposition le code source (en java) sous certaines conditions.
+Le logiciel propose **plusieurs solutions** adaptées aux capacités communicationnelles et au degré de motricité de l'utilisateur :
+
+* Communication verbale par écrit
+* Communication non-verbale à base d'icônes
+* Mode d'accessibilité par clavier, souris ou défilement
+* Capteurs de mouvements pour contrôler l'interface
+
+La PCA équipe de nombreux particuliers, professionnels du secteur médico-social et structures d'accueil.
+
+---
+
+## Développement et Distribution
+
+La PCA a été conçue et développée au sein du **[Laboratoire Parole et Langage](http://www.lpl-aix.fr/) ([CNRS](http://www.cnrs.fr/) et [Aix Marseille Université](http://www.univ-amu.fr/))**. Distribué par la société Aegys de 2003 à 2011, le logiciel PCA est maintenant disponible en **libre accès**. |
+
+La version de PCA proposée date de l'année **2011**, date de la fin du projet. La PCA s'installe sur le système Windows exclusivement. Le logiciel PCA n'est plus maintenu depuis. Pour les développeurs souhaitant faire évoluer le logiciel, nous mettons à disposition le **code source (en Java)** sous certaines conditions.
 
 ## La PCA sous Windows
 
