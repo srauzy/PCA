@@ -11,11 +11,11 @@ La PCA équipe de nombreux particuliers, professionnels du secteur médico-socia
 
 ---
 
-## Développement et Distribution
+## Développement et distribution
 
-La PCA a été conçue et développée au sein du **[Laboratoire Parole et Langage](http://www.lpl-aix.fr/) ([CNRS](http://www.cnrs.fr/) et [Aix Marseille Université](http://www.univ-amu.fr/))**. Distribué par la société Aegys de 2003 à 2011, le logiciel PCA est maintenant disponible en **libre accès**. |
+La PCA a été conçue et développée au sein du **[Laboratoire Parole et Langage](http://www.lpl-aix.fr/) ([CNRS](http://www.cnrs.fr/) et [Aix Marseille Université](http://www.univ-amu.fr/))**. Distribué par la société Aegys de 2003 à 2011, le logiciel PCA est maintenant disponible en **libre accès**. 
 
-La version de PCA proposée date de l'année **2011**, date de la fin du projet. La PCA s'installe sur le système Windows exclusivement. Le logiciel PCA n'est plus maintenu depuis. Pour les développeurs souhaitant faire évoluer le logiciel, nous mettons à disposition le **code source (en Java)** sous certaines conditions.
+La version de PCA proposée date de l'année **2011**, date de la fin du projet. Le logiciel PCA n'est plus maintenu depuis. La PCA s'installe sur le système Windows exclusivement. Pour les développeurs souhaitant faire évoluer le logiciel, nous mettons à disposition le **code source (en Java)** sous certaines conditions. Dans ce cas, contactez Stéphane Rauzy.
 
 ## La PCA sous Windows
 
